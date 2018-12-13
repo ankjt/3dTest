@@ -1,0 +1,4357 @@
+{
+  "ver": "1.0.4",
+  "uuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+  "scaleFactor": 1,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "fc368e60-6f69-43cc-8533-34352de1b046",
+      "subMetas": {}
+    },
+    "Box001.mesh": {
+      "ver": "1.0.0",
+      "uuid": "00c5ce6e-ca39-4d35-a6f9-129b6b1d4fab",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 0,
+      "verts": 58,
+      "tris": 26,
+      "submeshes": 3,
+      "minPos": {
+        "x": -150,
+        "y": -250,
+        "z": 0.120554856956005
+      },
+      "maxPos": {
+        "x": 150,
+        "y": 250,
+        "z": 4.16100835800171
+      },
+      "subMetas": {}
+    },
+    "Object03.mesh": {
+      "ver": "1.0.0",
+      "uuid": "a5d9e686-21d1-439a-a61e-0e60893d7720",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 1,
+      "verts": 53,
+      "tris": 30,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.852893352508545,
+        "y": -0.485940605401993,
+        "z": -0.451264947652817
+      },
+      "maxPos": {
+        "x": 0.607283592224121,
+        "y": 0.140433982014656,
+        "z": 0.407268643379211
+      },
+      "subMetas": {}
+    },
+    "Object004.mesh": {
+      "ver": "1.0.0",
+      "uuid": "8050dc5e-bbcf-42e3-a78e-a05a8a62ca9a",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 2,
+      "verts": 53,
+      "tris": 30,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.852893352508545,
+        "y": -0.485940605401993,
+        "z": -0.451264947652817
+      },
+      "maxPos": {
+        "x": 0.607283592224121,
+        "y": 0.140433982014656,
+        "z": 0.407268643379211
+      },
+      "subMetas": {}
+    },
+    "Object011.mesh": {
+      "ver": "1.0.0",
+      "uuid": "00e91f90-2085-4305-9e67-5fe0aad03807",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 3,
+      "verts": 53,
+      "tris": 30,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.852893352508545,
+        "y": -0.485940605401993,
+        "z": -0.451264947652817
+      },
+      "maxPos": {
+        "x": 0.607283592224121,
+        "y": 0.140433982014656,
+        "z": 0.407268643379211
+      },
+      "subMetas": {}
+    },
+    "Object020.mesh": {
+      "ver": "1.0.0",
+      "uuid": "928f8af1-5cc8-438d-93fe-d552d17b8b00",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 4,
+      "verts": 53,
+      "tris": 30,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.852893352508545,
+        "y": -0.485940605401993,
+        "z": -0.451264947652817
+      },
+      "maxPos": {
+        "x": 0.607283592224121,
+        "y": 0.140433982014656,
+        "z": 0.407268643379211
+      },
+      "subMetas": {}
+    },
+    "Object021.mesh": {
+      "ver": "1.0.0",
+      "uuid": "5fb4e1c5-6bb8-4d6e-80b9-a5d223c034e9",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 5,
+      "verts": 53,
+      "tris": 30,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.852893352508545,
+        "y": -0.485940605401993,
+        "z": -0.451264947652817
+      },
+      "maxPos": {
+        "x": 0.607283592224121,
+        "y": 0.140433982014656,
+        "z": 0.407268643379211
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_002.mesh": {
+      "ver": "1.0.0",
+      "uuid": "1d052f3d-ac41-4c9b-b67e-b87123843836",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 6,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_01.mesh": {
+      "ver": "1.0.0",
+      "uuid": "5d7f5fe9-6a04-4d96-ab55-3cfb549a176d",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 7,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_005.mesh": {
+      "ver": "1.0.0",
+      "uuid": "bdeeba46-da99-40e7-9b66-a060cc6f219b",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 8,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_003.mesh": {
+      "ver": "1.0.0",
+      "uuid": "2784b9d1-9afa-4ce2-be08-11e2a234430b",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 9,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_009.mesh": {
+      "ver": "1.0.0",
+      "uuid": "25d61fde-6999-490b-971a-08a058c449b1",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 10,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_004.mesh": {
+      "ver": "1.0.0",
+      "uuid": "e6d65772-2e0a-4f90-a7c1-a9709ca8cba6",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 11,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_008.mesh": {
+      "ver": "1.0.0",
+      "uuid": "87acea45-b39e-4245-b773-81b65a7fbfda",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 12,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_007.mesh": {
+      "ver": "1.0.0",
+      "uuid": "2b0a9ad8-f634-4383-89fe-be2d1137b029",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 13,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_010.mesh": {
+      "ver": "1.0.0",
+      "uuid": "82193c20-7eed-41a5-805d-7e8e621294d3",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 14,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_006.mesh": {
+      "ver": "1.0.0",
+      "uuid": "52b05fed-5b86-491e-aef8-dbab22396cc4",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 15,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_011.mesh": {
+      "ver": "1.0.0",
+      "uuid": "19c2fdd4-66b0-452d-8286-acf0db167b6a",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 16,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_012.mesh": {
+      "ver": "1.0.0",
+      "uuid": "4cc66c5c-7e3b-467c-91f3-886e65e2193b",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 17,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_013.mesh": {
+      "ver": "1.0.0",
+      "uuid": "b7d1ff94-1170-4a83-9a50-327c736cba3e",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 18,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_014.mesh": {
+      "ver": "1.0.0",
+      "uuid": "f28a7b97-fa4e-4741-a9b6-e03102219596",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 19,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "ZJZ_SongShu_015.mesh": {
+      "ver": "1.0.0",
+      "uuid": "99d92a3b-7858-47c6-a44e-0d220a1ab038",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 20,
+      "verts": 372,
+      "tris": 306,
+      "submeshes": 1,
+      "minPos": {
+        "x": -1.63322448730469,
+        "y": -2.31067872047424,
+        "z": 0.78890073299408
+      },
+      "maxPos": {
+        "x": 2.93936204910278,
+        "y": 2.36911869049072,
+        "z": 4.95900630950928
+      },
+      "subMetas": {}
+    },
+    "Object005.mesh": {
+      "ver": "1.0.0",
+      "uuid": "ea34f8b2-1a97-433d-ac04-18d0e1e2ae21",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 21,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object01.mesh": {
+      "ver": "1.0.0",
+      "uuid": "51564e3c-d4f4-4b35-9060-b7a28d193eb7",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 22,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object008.mesh": {
+      "ver": "1.0.0",
+      "uuid": "1500b294-2a13-4377-90d1-9837cdb446ed",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 23,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object006.mesh": {
+      "ver": "1.0.0",
+      "uuid": "622778bd-93bd-468b-97bf-1b6aa609a96e",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 24,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object013.mesh": {
+      "ver": "1.0.0",
+      "uuid": "ea2bf23f-ce31-436e-b625-5b082e73d37e",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 25,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object007.mesh": {
+      "ver": "1.0.0",
+      "uuid": "eed308b5-632e-42fa-bf17-e2e43c329a7e",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 26,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object012.mesh": {
+      "ver": "1.0.0",
+      "uuid": "27ea0934-7396-4f8f-9dc6-47ba7a9bc17f",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 27,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object010.mesh": {
+      "ver": "1.0.0",
+      "uuid": "d5e453fa-671b-4871-baf3-6a83ace3edaf",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 28,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object014.mesh": {
+      "ver": "1.0.0",
+      "uuid": "f665f52e-af0a-4f6e-9cc4-1f54caaf692c",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 29,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object009.mesh": {
+      "ver": "1.0.0",
+      "uuid": "a4284650-85b5-4a17-b38e-22a7319e3a39",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 30,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object015.mesh": {
+      "ver": "1.0.0",
+      "uuid": "22356d2e-467a-4dcf-a6b5-efa6566f6122",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 31,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object016.mesh": {
+      "ver": "1.0.0",
+      "uuid": "45013d2e-3c63-4519-8617-b31cf56a254b",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 32,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object017.mesh": {
+      "ver": "1.0.0",
+      "uuid": "63ff2a19-68d3-4af9-bd21-be93c9c8bc48",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 33,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object018.mesh": {
+      "ver": "1.0.0",
+      "uuid": "36e3e581-c00e-490c-bf02-24efde4b2dee",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 34,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "Object019.mesh": {
+      "ver": "1.0.0",
+      "uuid": "7b0d37df-6d74-409a-8716-5296cc4e0c10",
+      "modelUuid": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+      "meshID": 35,
+      "verts": 72,
+      "tris": 58,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.312028467655182,
+        "y": -0.594242453575134,
+        "z": 0.0124166868627071
+      },
+      "maxPos": {
+        "x": 1.64025020599365,
+        "y": 0.874869644641876,
+        "z": 5.47022914886475
+      },
+      "subMetas": {}
+    },
+    "2.prefab": {
+      "ver": "1.0.0",
+      "uuid": "12cacca8-3a55-47e7-9353-f7b26f3e623a",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "2",
+          "_objFlags": 0,
+          "_native": "",
+          "data": {
+            "__id__": 1
+          },
+          "optimizationPolicy": 0,
+          "asyncLoadAssets": false,
+          "readonly": true
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "RootNode",
+          "_objFlags": 0,
+          "_parent": null,
+          "_children": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_active": true,
+          "_level": 0,
+          "_components": [],
+          "_prefab": {
+            "__id__": 112
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Group001",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 1
+          },
+          "_children": [
+            {
+              "__id__": 3
+            },
+            {
+              "__id__": 6
+            },
+            {
+              "__id__": 9
+            },
+            {
+              "__id__": 12
+            },
+            {
+              "__id__": 15
+            },
+            {
+              "__id__": 18
+            },
+            {
+              "__id__": 21
+            },
+            {
+              "__id__": 24
+            },
+            {
+              "__id__": 27
+            },
+            {
+              "__id__": 30
+            },
+            {
+              "__id__": 33
+            },
+            {
+              "__id__": 36
+            },
+            {
+              "__id__": 39
+            },
+            {
+              "__id__": 42
+            },
+            {
+              "__id__": 45
+            },
+            {
+              "__id__": 48
+            },
+            {
+              "__id__": 51
+            },
+            {
+              "__id__": 54
+            },
+            {
+              "__id__": 57
+            },
+            {
+              "__id__": 60
+            },
+            {
+              "__id__": 63
+            },
+            {
+              "__id__": 66
+            },
+            {
+              "__id__": 69
+            },
+            {
+              "__id__": 72
+            },
+            {
+              "__id__": 75
+            },
+            {
+              "__id__": 78
+            },
+            {
+              "__id__": 81
+            },
+            {
+              "__id__": 84
+            },
+            {
+              "__id__": 87
+            },
+            {
+              "__id__": 90
+            },
+            {
+              "__id__": 93
+            },
+            {
+              "__id__": 96
+            },
+            {
+              "__id__": 99
+            },
+            {
+              "__id__": 102
+            },
+            {
+              "__id__": 105
+            },
+            {
+              "__id__": 108
+            }
+          ],
+          "_active": true,
+          "_level": 1,
+          "_components": [],
+          "_prefab": {
+            "__id__": 111
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.00136906432453543,
+            "y": 3.21809887886047,
+            "z": -0.670591771602631
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 0.100000001490116,
+            "y": 0.100000001490116,
+            "z": 0.100000001490116
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -0.70710676908493,
+            "y": 0,
+            "z": 0,
+            "w": 0.70710676908493
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Box001",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 4
+            }
+          ],
+          "_prefab": {
+            "__id__": 5
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0.00000122070309771516,
+            "z": -32.1809921264648
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 3
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "00c5ce6e-ca39-4d35-a6f9-129b6b1d4fab"
+          },
+          "textures": [
+            {
+              "__uuid__": "1b150a0a-8aba-4bd7-8c21-742a7238860d"
+            },
+            {
+              "__uuid__": "0637edf5-9f93-4410-9734-0a649007e1d6"
+            },
+            {
+              "__uuid__": "0275e94c-56a7-410f-bd1a-fc7483f7d14a"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Box001",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object03",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 7
+            }
+          ],
+          "_prefab": {
+            "__id__": 8
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 31.9152736663818,
+            "y": 75.4483642578125,
+            "z": -25.1016063690186
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.85190677642822
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 0,
+            "y": 0,
+            "z": -0.30070573091507,
+            "w": 0.953716993331909
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 6
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "a5d9e686-21d1-439a-a61e-0e60893d7720"
+          },
+          "textures": [
+            {
+              "__uuid__": "0273a076-992e-4741-be1e-ce9f9403564c"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object03",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object004",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 10
+            }
+          ],
+          "_prefab": {
+            "__id__": 11
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -29.2248821258545,
+            "y": 98.8796768188477,
+            "z": -25.1016063690186
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.85190677642822
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 3.60216174611479e-33,
+            "y": -3.60216101143082e-33,
+            "z": 0.707106649875641,
+            "w": 0.70710688829422
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 9
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "8050dc5e-bbcf-42e3-a78e-a05a8a62ca9a"
+          },
+          "textures": [
+            {
+              "__uuid__": "0273a076-992e-4741-be1e-ce9f9403564c"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object004",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object011",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 13
+            }
+          ],
+          "_prefab": {
+            "__id__": 14
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -29.2371082305908,
+            "y": -5.07363414764404,
+            "z": -26.7649040222168
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.85190677642822
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 3.44160868691765e-33,
+            "y": -3.75585689780083e-33,
+            "z": 0.67559015750885,
+            "w": 0.737277328968048
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 12
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "00e91f90-2085-4305-9e67-5fe0aad03807"
+          },
+          "textures": [
+            {
+              "__uuid__": "0273a076-992e-4741-be1e-ce9f9403564c"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object011",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_002",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 16
+            }
+          ],
+          "_prefab": {
+            "__id__": 17
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -66.8572311401367,
+            "y": 88.1026763916016,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 15
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "1d052f3d-ac41-4c9b-b67e-b87123843836"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_002",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object005",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 19
+            }
+          ],
+          "_prefab": {
+            "__id__": 20
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -66.8572311401367,
+            "y": 88.1026763916016,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 18
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "ea34f8b2-1a97-433d-ac04-18d0e1e2ae21"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object005",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_01",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 22
+            }
+          ],
+          "_prefab": {
+            "__id__": 23
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 24.3301563262939,
+            "y": 92.7680816650391,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 21
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "5d7f5fe9-6a04-4d96-ab55-3cfb549a176d"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_01",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object01",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 25
+            }
+          ],
+          "_prefab": {
+            "__id__": 26
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 24.3301563262939,
+            "y": 92.7680816650391,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 24
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "51564e3c-d4f4-4b35-9060-b7a28d193eb7"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object01",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_005",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 28
+            }
+          ],
+          "_prefab": {
+            "__id__": 29
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 43.1226959228516,
+            "y": 32.5466918945313,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 27
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "bdeeba46-da99-40e7-9b66-a060cc6f219b"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_005",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object008",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 31
+            }
+          ],
+          "_prefab": {
+            "__id__": 32
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 43.1226959228516,
+            "y": 32.5466918945313,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 30
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "1500b294-2a13-4377-90d1-9837cdb446ed"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object008",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_003",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 34
+            }
+          ],
+          "_prefab": {
+            "__id__": 35
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -50.7467575073242,
+            "y": 17.6291007995605,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 33
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "2784b9d1-9afa-4ce2-be08-11e2a234430b"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_003",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object006",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 37
+            }
+          ],
+          "_prefab": {
+            "__id__": 38
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -50.7467575073242,
+            "y": 17.6291007995605,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 36
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "622778bd-93bd-468b-97bf-1b6aa609a96e"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object006",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_009",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 40
+            }
+          ],
+          "_prefab": {
+            "__id__": 41
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -114.87281036377,
+            "y": -28.6184120178223,
+            "z": -20.8824806213379
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 39
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "25d61fde-6999-490b-971a-08a058c449b1"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_009",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object013",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 43
+            }
+          ],
+          "_prefab": {
+            "__id__": 44
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -114.87281036377,
+            "y": -28.6184120178223,
+            "z": -20.8824806213379
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 42
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "ea2bf23f-ce31-436e-b625-5b082e73d37e"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object013",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_004",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 46
+            }
+          ],
+          "_prefab": {
+            "__id__": 47
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -69.6656112670898,
+            "y": -54.4290237426758,
+            "z": -21.9096240997314
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 45
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "e6d65772-2e0a-4f90-a7c1-a9709ca8cba6"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_004",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object007",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 49
+            }
+          ],
+          "_prefab": {
+            "__id__": 50
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -69.6656112670898,
+            "y": -54.4290237426758,
+            "z": -21.9096240997314
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 48
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "eed308b5-632e-42fa-bf17-e2e43c329a7e"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object007",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_008",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 52
+            }
+          ],
+          "_prefab": {
+            "__id__": 53
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -98.5435104370117,
+            "y": -130.355712890625,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 51
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "87acea45-b39e-4245-b773-81b65a7fbfda"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_008",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object012",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 55
+            }
+          ],
+          "_prefab": {
+            "__id__": 56
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -98.5435104370117,
+            "y": -130.355712890625,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 54
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "27ea0934-7396-4f8f-9dc6-47ba7a9bc17f"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object012",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_007",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 58
+            }
+          ],
+          "_prefab": {
+            "__id__": 59
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 32.2154273986816,
+            "y": -84.3339309692383,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 57
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "2b0a9ad8-f634-4383-89fe-be2d1137b029"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_007",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object010",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 61
+            }
+          ],
+          "_prefab": {
+            "__id__": 62
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 32.2154273986816,
+            "y": -84.3339309692383,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 60
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "d5e453fa-671b-4871-baf3-6a83ace3edaf"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object010",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_010",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 64
+            }
+          ],
+          "_prefab": {
+            "__id__": 65
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 88.2311706542969,
+            "y": -120.498123168945,
+            "z": -28.5266666412354
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 63
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "82193c20-7eed-41a5-805d-7e8e621294d3"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_010",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object014",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 67
+            }
+          ],
+          "_prefab": {
+            "__id__": 68
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 88.2311706542969,
+            "y": -120.498123168945,
+            "z": -28.5266666412354
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 66
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "f665f52e-af0a-4f6e-9cc4-1f54caaf692c"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object014",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_006",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 70
+            }
+          ],
+          "_prefab": {
+            "__id__": 71
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 54.8348808288574,
+            "y": -34.2338829040527,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 69
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "52b05fed-5b86-491e-aef8-dbab22396cc4"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_006",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object009",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 73
+            }
+          ],
+          "_prefab": {
+            "__id__": 74
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 54.8348808288574,
+            "y": -34.2338829040527,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 72
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "a4284650-85b5-4a17-b38e-22a7319e3a39"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object009",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_011",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 76
+            }
+          ],
+          "_prefab": {
+            "__id__": 77
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 38.9470710754395,
+            "y": -203.389541625977,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 75
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "19c2fdd4-66b0-452d-8286-acf0db167b6a"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_011",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object015",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 79
+            }
+          ],
+          "_prefab": {
+            "__id__": 80
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 38.9470710754395,
+            "y": -203.389541625977,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 78
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "22356d2e-467a-4dcf-a6b5-efa6566f6122"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object015",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_012",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 82
+            }
+          ],
+          "_prefab": {
+            "__id__": 83
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -55.1813659667969,
+            "y": -171.870742797852,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 81
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "4cc66c5c-7e3b-467c-91f3-886e65e2193b"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_012",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object016",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 85
+            }
+          ],
+          "_prefab": {
+            "__id__": 86
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -55.1813659667969,
+            "y": -171.870742797852,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 84
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "45013d2e-3c63-4519-8617-b31cf56a254b"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object016",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_013",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 88
+            }
+          ],
+          "_prefab": {
+            "__id__": 89
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 53.0387496948242,
+            "y": 167.050216674805,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 87
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "b7d1ff94-1170-4a83-9a50-327c736cba3e"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_013",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object017",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 91
+            }
+          ],
+          "_prefab": {
+            "__id__": 92
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 53.0387496948242,
+            "y": 167.050216674805,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 90
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "63ff2a19-68d3-4af9-bd21-be93c9c8bc48"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object017",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_014",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 94
+            }
+          ],
+          "_prefab": {
+            "__id__": 95
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -100.673828125,
+            "y": 171.656097412109,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 93
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "f28a7b97-fa4e-4741-a9b6-e03102219596"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_014",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object018",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 97
+            }
+          ],
+          "_prefab": {
+            "__id__": 98
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -100.673828125,
+            "y": 171.656097412109,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 96
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "36e3e581-c00e-490c-bf02-24efde4b2dee"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object018",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "ZJZ_SongShu_015",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 100
+            }
+          ],
+          "_prefab": {
+            "__id__": 101
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 99.6079254150391,
+            "y": 29.75927734375,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 99
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "99d92a3b-7858-47c6-a44e-0d220a1ab038"
+          },
+          "textures": [
+            {
+              "__uuid__": "aba1025d-2c56-4c0e-855b-b4fd720c6468"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/ZJZ_SongShu_015",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object019",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 103
+            }
+          ],
+          "_prefab": {
+            "__id__": 104
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 99.6079254150391,
+            "y": 29.75927734375,
+            "z": -28.3501358032227
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.67837142944336
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 5.09422554182115e-33,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 102
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "7b0d37df-6d74-409a-8716-5296cc4e0c10"
+          },
+          "textures": [
+            {
+              "__uuid__": "1567b1b0-287a-4db4-a5f7-d8de18d4b84f"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object019",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object020",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 106
+            }
+          ],
+          "_prefab": {
+            "__id__": 107
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -75.5747146606445,
+            "y": 173.112503051758,
+            "z": -25.1016063690186
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.85190677642822
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 3.60216174611479e-33,
+            "y": -3.60216101143082e-33,
+            "z": 0.707106649875641,
+            "w": 0.70710688829422
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 105
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "928f8af1-5cc8-438d-93fe-d552d17b8b00"
+          },
+          "textures": [
+            {
+              "__uuid__": "0273a076-992e-4741-be1e-ce9f9403564c"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object020",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Object021",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 2,
+          "_components": [
+            {
+              "__id__": 109
+            }
+          ],
+          "_prefab": {
+            "__id__": 110
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -25.7609367370605,
+            "y": -154.94548034668,
+            "z": -25.1016063690186
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 9.67837142944336,
+            "y": 9.67837142944336,
+            "z": 9.85190677642822
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 3.60216174611479e-33,
+            "y": -3.60216101143082e-33,
+            "z": 0.707106649875641,
+            "w": 0.70710688829422
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.MeshRenderer",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 108
+          },
+          "_enabled": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_mesh": {
+            "__uuid__": "5fb4e1c5-6bb8-4d6e-80b9-a5d223c034e9"
+          },
+          "textures": [
+            {
+              "__uuid__": "0273a076-992e-4741-be1e-ce9f9403564c"
+            }
+          ],
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001/Object021",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Group001",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "8edf09cd-0d7e-4596-b105-26c65f10e482",
+          "sync": false
+        }
+      ],
+      "subMetas": {}
+    }
+  }
+}

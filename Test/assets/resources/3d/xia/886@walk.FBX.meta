@@ -1,0 +1,984 @@
+{
+  "ver": "1.0.4",
+  "uuid": "118ca0e9-24fe-4aae-a028-7e7987c9d0bc",
+  "scaleFactor": 1,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "a46fe7cc-3616-46a0-8bbd-05f2308a0127",
+      "subMetas": {}
+    },
+    "walk.sac": {
+      "ver": "1.0.0",
+      "uuid": "a4a0a141-c5ac-4ba7-8989-860a40161c07",
+      "modelUuid": "118ca0e9-24fe-4aae-a028-7e7987c9d0bc",
+      "animationID": 0,
+      "name": "walk",
+      "subMetas": {}
+    },
+    "886@walk.prefab": {
+      "ver": "1.0.0",
+      "uuid": "5f7315d1-ba56-4682-91b0-4bce9c405170",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "886@walk",
+          "_objFlags": 0,
+          "_native": "",
+          "data": {
+            "__id__": 1
+          },
+          "optimizationPolicy": 0,
+          "asyncLoadAssets": false,
+          "readonly": true
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "RootNode",
+          "_objFlags": 0,
+          "_parent": null,
+          "_children": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_active": true,
+          "_level": 0,
+          "_components": [],
+          "_prefab": {
+            "__id__": 26
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Dummy001",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 1
+          },
+          "_children": [
+            {
+              "__id__": 3
+            }
+          ],
+          "_active": true,
+          "_level": 1,
+          "_components": [],
+          "_prefab": {
+            "__id__": 25
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 8.14603424714733e-8,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 2
+          },
+          "_children": [
+            {
+              "__id__": 4
+            }
+          ],
+          "_active": true,
+          "_level": 2,
+          "_components": [],
+          "_prefab": {
+            "__id__": 24
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -2.15483142440576e-9,
+            "y": 0.598904609680176,
+            "z": -1.00275379111281e-7
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 0.999999940395355,
+            "y": 0.999999940395355,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -0.500000834465027,
+            "y": -0.499999225139618,
+            "z": -0.499999165534973,
+            "w": 0.500000774860382
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 Pelvis",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 3
+          },
+          "_children": [
+            {
+              "__id__": 5
+            }
+          ],
+          "_active": true,
+          "_level": 3,
+          "_components": [],
+          "_prefab": {
+            "__id__": 23
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 0.999999940395355,
+            "z": 0.999999940395355
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -0.5,
+            "y": -0.5,
+            "z": -0.499999314546585,
+            "w": 0.500000715255737
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 Spine",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 4
+          },
+          "_children": [
+            {
+              "__id__": 6
+            },
+            {
+              "__id__": 14
+            }
+          ],
+          "_active": true,
+          "_level": 4,
+          "_components": [],
+          "_prefab": {
+            "__id__": 22
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.072285994887352,
+            "y": 0.035247690975666,
+            "z": -4.33620357398468e-7
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 0.999999940395355,
+            "z": 0.999999940395355
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 0.00161961407866329,
+            "y": -0.00000133929643197916,
+            "z": 0.000398159580072388,
+            "w": 0.99999862909317
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 L Thigh",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 5
+          },
+          "_children": [
+            {
+              "__id__": 7
+            }
+          ],
+          "_active": true,
+          "_level": 5,
+          "_components": [],
+          "_prefab": {
+            "__id__": 13
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -0.0723136514425278,
+            "y": -0.0346666909754276,
+            "z": 0.161567136645317
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 0.999999940395355,
+            "y": 1,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 0.74813324213028,
+            "y": 0.654215276241302,
+            "z": 0.110900305211544,
+            "w": -0.000381822901545092
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 L Calf",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 6
+          },
+          "_children": [
+            {
+              "__id__": 8
+            }
+          ],
+          "_active": true,
+          "_level": 6,
+          "_components": [],
+          "_prefab": {
+            "__id__": 12
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.260668873786926,
+            "y": 0,
+            "z": 9.53674295089968e-9
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 0.999999821186066,
+            "y": 0.99999988079071,
+            "z": 0.999999940395355
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 6.40899869478331e-18,
+            "y": -2.65951057363048e-18,
+            "z": -0.383275836706161,
+            "w": 0.923633933067322
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 L Foot",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 7
+          },
+          "_children": [
+            {
+              "__id__": 9
+            }
+          ],
+          "_active": true,
+          "_level": 7,
+          "_components": [],
+          "_prefab": {
+            "__id__": 11
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.255772590637207,
+            "y": 0,
+            "z": -4.76837147544984e-9
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -0.0370191261172295,
+            "y": 0.0309685133397579,
+            "z": -0.122070379555225,
+            "w": 0.991347253322601
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 L Toe0",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 8
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 8,
+          "_components": [],
+          "_prefab": {
+            "__id__": 10
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.0955739393830299,
+            "y": 0.106709055602551,
+            "z": -3.55271359939116e-17
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1.00000011920929,
+            "y": 1.00000011920929,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -1.35150584057442e-8,
+            "y": -1.7802905816211e-8,
+            "z": 0.796488642692566,
+            "w": 0.604653537273407
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh",
+          "sync": false
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 R Thigh",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 5
+          },
+          "_children": [
+            {
+              "__id__": 15
+            }
+          ],
+          "_active": true,
+          "_level": 5,
+          "_components": [],
+          "_prefab": {
+            "__id__": 21
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": -0.0723144933581352,
+            "y": -0.0357131063938141,
+            "z": -0.161337718367577
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 0.99999988079071,
+            "y": 1,
+            "z": 0.999999940395355
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -0.478115767240524,
+            "y": 0.856981337070465,
+            "z": -0.032186433672905,
+            "w": 0.1896111369133
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 R Calf",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 14
+          },
+          "_children": [
+            {
+              "__id__": 16
+            }
+          ],
+          "_active": true,
+          "_level": 6,
+          "_components": [],
+          "_prefab": {
+            "__id__": 20
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.260668933391571,
+            "y": -7.10542719878232e-17,
+            "z": 0
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 0.999999940395355,
+            "y": 1.00000011920929,
+            "z": 1
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -3.0527567036135e-17,
+            "y": 5.57068671272715e-18,
+            "z": -0.600512802600861,
+            "w": 0.799615144729614
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 R Foot",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 15
+          },
+          "_children": [
+            {
+              "__id__": 17
+            }
+          ],
+          "_active": true,
+          "_level": 7,
+          "_components": [],
+          "_prefab": {
+            "__id__": 19
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.255772620439529,
+            "y": -3.55271359939116e-17,
+            "z": -3.81469718035987e-8
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1.00000011920929,
+            "y": 1.00000011920929,
+            "z": 1.00000023841858
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": -0.132051199674606,
+            "y": 0.0203238520771265,
+            "z": -0.0534194260835648,
+            "w": 0.989593744277954
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Bip001 R Toe0",
+          "_objFlags": 0,
+          "_parent": {
+            "__id__": 16
+          },
+          "_children": [],
+          "_active": true,
+          "_level": 8,
+          "_components": [],
+          "_prefab": {
+            "__id__": 18
+          },
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 0,
+            "height": 0
+          },
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_position": {
+            "__type__": "cc.Vec3",
+            "x": 0.0955740362405777,
+            "y": 0.106708966195583,
+            "z": 0
+          },
+          "_scale": {
+            "__type__": "cc.Vec3",
+            "x": 1.00000011920929,
+            "y": 1.00000011920929,
+            "z": 1.00000011920929
+          },
+          "_quat": {
+            "__type__": "cc.Quat",
+            "x": 1.45631851022898e-9,
+            "y": 1.33525395185075e-8,
+            "z": 0.767002463340759,
+            "w": 0.641644179821014
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_zIndex": 0,
+          "_is3DNode": true,
+          "groupIndex": 0,
+          "_id": ""
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001/Bip001 Pelvis",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001/Bip001",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "Dummy001",
+          "sync": false
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__id__": 0
+          },
+          "fileId": "118ca0e9-24fe-4aae-a028-7e7987c9d0bc",
+          "sync": false
+        }
+      ],
+      "subMetas": {}
+    }
+  }
+}
